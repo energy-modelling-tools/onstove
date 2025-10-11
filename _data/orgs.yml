@@ -1,8 +1,36 @@
 # Partner institutions for homepage display
 partners:
-  - name: worldbank
-    logo: /assets/img/partners/worldbank.png
-    display_name: World Bank Group
-    url: https://www.worldbank.org/
-    
+  - name: kth
+    logo: /assets/img/partners/KTH.png
+    display_name: KTH Royal Institute of Technology
+    url: https://www.energy.kth.se/energy-systems/division-of-energy-systems-1.937036
 
+  - name: cca
+    logo: /assets/img/partners/CCA.png
+    display_name: Clean Cooking Alliance (CCA)
+    url: https://cleancooking.org/
+
+  - name: seforall
+    logo: /assets/img/partners/SEforAll.png
+    display_name: Sustainable Energy for All (SEforALL)
+    url: https://www.seforall.org/
+
+  - name: iea
+    logo: /assets/img/partners/IEA.png
+    display_name: International Energy Agency (IEA)
+    url: https://www.iea.org/
+
+  - name: wri
+    logo: /assets/img/partners/WRI.jpg
+    display_name: World Resources Institute (WRI)
+    url: https://www.wri.org/
+
+  - name: ccg
+    logo: /assets/img/partners/CCG.png
+    display_name: Climate Compatible Growth (CCG)
+    url: https://climatecompatiblegrowth.com/
+
+  - name: mecs
+    logo: /assets/img/partners/MECS.png
+    display_name: Modern Energy Cooking Services (MECS)
+    url: https://mecs.org.uk/

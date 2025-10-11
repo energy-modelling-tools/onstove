@@ -1,7 +1,7 @@
 ---
 theme: jekyll-theme-primer
 layout: sub-page
-title: FFRM
+title: OnStove
 permalink: /contact/
 ---
 
@@ -11,56 +11,16 @@ permalink: /contact/
       <h2 class="alt-h2 mb-4">Get Involved</h2>
     </div>
 
-    <!-- Section 1: Community Engagement -->
-    <div class="involvement-section mb-5">
-      <h3 class="section-title text-center mb-4">💬 Join Our Community</h3>
-      
-      <!-- Discourse Link at the start
-      --> 
-      <div class="text-center mb-4">
-        <a href="https://forum.u4ria.org/" target="_blank" class="btn btn-primary btn-lg">
-          Visit the Discourse Forum →
-        </a>
-      </div>
-
-      <p class="text-center lead mb-4">
-        Join other FFRM practitioners by becoming part of our Discourse community—a dedicated online space for collaboration, learning, and sharing.
-      </p>
-
-      <!-- Centered platform benefits -->
-      <div class="text-center mb-4">
-        <h4 class="platform-benefits-title">This platform allows members to:</h4>
-      </div>
-
-      <div class="benefits-container">
-        <div class="benefit-card text-center">
-          {% octicon tools height:40 class:"fill-blue mb-3" aria-label:tools %}
-          <h5>Troubleshoot Models</h5>
-          <p class="text-gray">Share challenges, seek advice, and collaborate with other users to overcome technical hurdles in your FFRM applications.</p>
-        </div>
-        <div class="benefit-card text-center">
-          {% octicon checklist height:40 class:"fill-blue mb-3" aria-label:checklist %}
-          <h5>Share Publications</h5>
-          <p class="text-gray">Showcase your research, explore the work of others, and contribute to the expanding body of knowledge on integrated systems modeling.</p>
-        </div>
-        <div class="benefit-card text-center">
-          <img src="/assets/img/sparkles.svg" height="40" class="mb-3" alt="Events">
-          <h5>Stay Updated on Events</h5>
-          <p class="text-gray">Be the first to know about upcoming capacity-building workshops, webinars, and networking opportunities.</p>
-        </div>
-      </div>
-    </div>
-
-    <!-- Section 2: Technical Contributions -->
+    <!-- Section: Technical Contributions -->
     <div class="involvement-section">
       <h3 class="section-title text-center mb-4">🛠️ Contribute to Development</h3>
       
       <div class="github-container">
         <div class="unified-github-card text-center">
-          <a href=" https://github.com/FossilFuelRetirementModel/ffrm_python" target="_blank" class="github-link">
+          <a href="https://github.com/Open-Source-Spatial-Clean-Cooking-Tool" target="_blank" class="github-link">
             <svg height="80" viewBox="0 0 16 16" version="1.1" width="80" aria-hidden="true" class="mb-3">
-              <path fill-rule="evenodd" fill="#0366d6" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 
-              6.53 5.47 7.59.4.07.55-.17.55-.38 
+              <path fill-rule="evenodd" fill="#0366d6" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 
+              2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 
               0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52
               -.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 
               2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 
@@ -73,26 +33,37 @@ permalink: /contact/
               2.2 0 .21.15.46.55.38A8.013 8.013 
               0 0016 8c0-4.42-3.58-8-8-8z"></path>
             </svg>
-            <h4 class="text-primary mt-2 mb-4">Contribute to FFRM on GitHub</h4>
+            <h4 class="text-primary mt-2 mb-4">Contribute to OnStove on GitHub</h4>
           </a>
           
           <div class="contribution-section text-left">
             <h5>Contribute to This Website</h5>
             <p>
-              Want to share your FFRM-related work, training, or resources? We welcome external contributions to this site!
+              Want to help improve the OnStove tool, documentation, or share your research? We welcome external contributions to this project!
             </p>
             <h6>How to contribute:</h6>
             <ul class="contribution-steps">
-              <li>Fork the repository: <a href=" https://github.com/FossilFuelRetirementModel/ffrm_python" target="_blank">github.com/FossilFuelRetirementModel/ffrm_python </a></li>
-              <li>Edit or add content (e.g. publications, capacity building activities)</li>
+              <li>Fork the repository: <a href="https://github.com/Open-Source-Spatial-Clean-Cooking-Tool" target="_blank">github.com/Open-Source-Spatial-Clean-Cooking-Tool</a></li>
+              <li>Edit or add content (e.g. publications, case studies, capacity building activities)</li>
               <li>Submit a pull request</li>
-              <li>A site administrator will review and approve if appropriate</li>
+              <li>A site administrator will review and approve your contribution</li>
             </ul>
             <p class="text-muted">
-              This website exists to grow a self-sustaining FFRM community—open to all. Let's make sure your work is visible and contributes to the global ecosystem!
+              This website exists to grow a self-sustaining open-source community for clean cooking access — open to all.  
+              Let’s make sure your work is visible and contributes to the global transition to sustainable energy.
             </p>
           </div>
         </div>
+      </div>
+    </div>
+
+    <!-- Optional: Social Links Section -->
+    <div class="text-center mt-6">
+      <h4 class="alt-h4 mb-3">Follow OnStove</h4>
+      <div class="social-links">
+        <a href="https://github.com/Open-Source-Spatial-Clean-Cooking-Tool" target="_blank" class="mx-2">
+          <img src="/assets/img/github-icon.png" width="40" alt="GitHub">
+        </a>
       </div>
     </div>
 

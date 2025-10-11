@@ -1,10 +1,7 @@
 - name: GitHub
   icon: bi bi-github
-  url:   https://github.com/FossilFuelRetirementModel/ffrm_python 
+  url: https://github.com/Open-Source-Spatial-Clean-Cooking-Tool  
 
-- name: Discord
-  icon: bi bi-discord
-  url: https://forum.u4ria.org/
 
 
 

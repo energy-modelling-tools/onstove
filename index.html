@@ -1,33 +1,53 @@
 ---
 layout: home
-title: Fossil Fuel Retirement Model
-description: Fossil Fuel Retirement Model (FFRM) is an open-source Python-based fossil fuel retirement model. It was originally developed by the World Bank as a coal retirement optimisation model. 
+title: OnStove
+description: OnStove is an open-source spatial cost-benefit model for evaluating and prioritising clean cooking solutions. It helps identify where and how modern energy access interventions can deliver the greatest social, economic, and environmental benefits.
 org_count: 60
 permalink: /
 ---
-  <div class="container-lg p-responsive text-center py-4 py-lg-6 my-xl-4" style="padding: 2rem;">
-    <h1 class="alt-h1 mb-4 intro-title">Fossil Fuel Retirement Model (FFRM)</h1>
-    <a href="{{ site.baseurl }}/about/" class="btn btn-outline-primary sky-blue-accent" style="border-color: #3490dc; color: #3490dc;">Learn More</a>
-  </div>
+
+<div class="container-lg p-responsive text-center py-4 py-lg-6 my-xl-4" style="padding: 2rem;">
+  <h1 class="alt-h1 mb-4 intro-title">OnStove</h1>
+  <p class="lead mb-4" style="max-width: 800px; margin: 0 auto;">
+    An open-source spatial cost-benefit model for clean cooking transition planning.
+  </p>
+  <a href="{{ site.baseurl }}/about/" class="btn btn-outline-primary sky-blue-accent" style="border-color: #3490dc; color: #3490dc;">Learn More</a>
+</div>
 </div><!-- ends .full-width that started in header.html -->
 
 
 <section class="bg-gray-light py-5">
   <div class="container-lg p-responsive text-center">
-    <h2 class="alt-h2 mb-4">What can we apply FFRM for?</h2>
+    <h2 class="alt-h2 mb-4">What can we apply OnStove for?</h2>
     <div class="row justify-content-center text-left">
 
-      <a href="https://www.sciencedirect.com/science/article/pii/S0973082622002022 " class="col-md-4 mb-5 text-decoration-none card-link">
+      <!-- Application Card 1 -->
+      <a href="https://doi.org/10.1016/j.esr.2023.101155" class="col-md-4 mb-5 text-decoration-none card-link" target="_blank">
         <div class="card p-3 h-100">
-          <h3 class="alt-h3 mb-2">🏭Estimating the stranded cost associated with retiring fossil fuel power plants. 
-        </h3>
-          <p class="text-gray">A GAMS based version of the tool</p>
+          <h3 class="alt-h3 mb-2">🔥 Identifying least-cost clean cooking transitions</h3>
+          <p class="text-gray">Use OnStove to map and compare the costs and benefits of adopting modern cooking technologies across geographies.</p>
         </div>
       </a>
 
+      <!-- Application Card 2 -->
+      <a href="https://doi.org/10.1016/j.energy.2023.128268" class="col-md-4 mb-5 text-decoration-none card-link" target="_blank">
+        <div class="card p-3 h-100">
+          <h3 class="alt-h3 mb-2">🌍 Supporting national clean cooking strategies</h3>
+          <p class="text-gray">Integrate OnStove into energy access planning to guide investments and ensure equitable clean cooking transitions.</p>
+        </div>
+      </a>
+
+      <!-- Application Card 3 -->
+      <a href="https://doi.org/10.1016/j.apenergy.2023.120980" class="col-md-4 mb-5 text-decoration-none card-link" target="_blank">
+        <div class="card p-3 h-100">
+          <h3 class="alt-h3 mb-2">📊 Quantifying social and environmental co-benefits</h3>
+          <p class="text-gray">Estimate avoided emissions, time savings, and health improvements from adopting cleaner fuels and technologies.</p>
+        </div>
+      </a>
+    </div>
 
     <p class="text-center">
-      <a href="/applications/" class="btn btn-outline">See more &rarr;</a>
+      <a href="/specialist_applications/" class="btn btn-outline">See more &rarr;</a>
     </p>
   </div>
 </section>
@@ -77,7 +97,7 @@ permalink: /
     <span class="text-center">
       {% octicon people height:42 class:"d-block mx-auto mb-4 text-center fill-gray" aria-label:people %}
     </span>
-    <h3 class="alt-h2 mb-4">Explore FFRM on</h3>
+    <h3 class="alt-h2 mb-4">Explore OnStove on</h3>
     <p class="f2-light text-white">
       {% for platform in site.data.social_media %}
         <a href="{{ platform.url }}" class="px-2" style="text-decoration: none !important;">

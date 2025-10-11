@@ -1,6 +1,20 @@
-- abstract: "Retiring coal plants as part of a decarbonization strategy has started to become a reality in the last five years and is reflected in the least-cost plans of many countries. However, major issues go beyond the scope of such planning, including commercial contracts, markets and asset stranding. This paper proposes a new model formulation that endogenously calculates stranded assets taking into consideration commercial and market issues. It can be used to develop insights into economic and financial issues surrounding stranded costs of coal retirement. An illustrative example around the existing 209 GW coal fleet, including an aging part of the coal fleet of 100 GW, in India is used to show how the model can be implemented with relative ease. A second case study is constructed for the Philippines, which has a much younger and uniform coal fleet. Comparing and contrasting the two case studies is valuable for understanding the critical drivers of stranded costs."
-  authors: 'Suski A., Hong L.,Chattopaghyay D.'
-  journal: Energy for Sustainable Development
-  title: "Modeling coal plant stranded costs for decarbonization pathway analyses"
-  url: https://www.sciencedirect.com/science/article/abs/pii/S0973082622002022
-  year: "2022"
+- title: "A geospatial approach to understanding clean cooking challenges in sub-Saharan Africa"
+  authors: "Khavari, B., Ramirez, C., Jeuland, M. & Fuso Nerini, F."
+  journal: "Nature Sustainability"
+  year: "2023"
+  url: "https://doi.org/10.1038/s41893-022-01039-8"
+  abstract: "Universal clean cooking is a key target under Sustainable Development Goal (SDG) 7, with implications for several other SDGs such as good health, gender equality, and climate. Yet, 2.4 billion people globally still lack access to clean cooking, especially in sub-Saharan Africa where only 17% use clean options. This paper develops OnStove, an open-source spatial tool comparing the relative potential of different cookstoves based on their costs and benefits, and applies it to SSA. Results show a severe market failure as traditional biomass delivers the lowest social net benefits nearly everywhere in SSA. Correcting this failure—through policy, behavioural, and market interventions—could yield substantial health, time, and emission benefits. Spatial mapping through OnStove enables more nuanced and targeted intervention strategies for cleaner cooking transitions."
+
+- title: "Achieving Nepal’s clean cooking ambitions: an open source and geospatial cost–benefit analysis"
+  authors: "Ramirez, C. et al."
+  journal: "The Lancet Planetary Health"
+  year: "2024"
+  url: "https://doi.org/10.1016/S2542-5196(24)00209-2"
+  abstract: "This study uses geospatial modelling methods to evaluate strategies for achieving the Government of Nepal’s vision for a national-scale clean cooking transition. Using OnStove, integrated with a spatial multicriteria analysis model, the study identifies where and how policy interventions can maximize net social benefits. Results show that transitional and clean cooking technologies outperform traditional fuels everywhere across Nepal, with around 9,563 deaths potentially averted annually if externalities were correctly valued. Electric cooking offers the greatest overall benefit, and aligning subsidies with differentiated electricity tariffs can enhance energy security while reducing emissions. The approach demonstrates how spatially explicit planning can target vulnerable populations and guide inclusive, data-driven policy design."
+
+- title: "A Vision for Clean Cooking Access for All"
+  authors: "International Energy Agency (IEA) and African Development Bank Group"
+  journal: "Special Report, IEA"
+  year: "2023"
+  url: "https://www.iea.org/reports/a-vision-for-clean-cooking-access-for-all"
+  abstract: "Nearly one in three people—mostly in the world’s poorest regions—still lack access to clean cooking facilities, with devastating health, environmental, and economic impacts. This report by the IEA and the African Development Bank outlines global trends, country-level progress, and pathways toward universal clean cooking access by 2030. It highlights the human toll of inaction, the social and economic benefits of cleaner solutions, and the urgent need to elevate clean cooking as a policy priority. By identifying key policies, technologies, and investments, the report provides a roadmap to mobilize international action ahead of major global climate and development summits."

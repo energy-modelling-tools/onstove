@@ -1,86 +1,95 @@
 ---
 theme: jekyll-theme-primer
 layout: sub-page
-title: FFRM
+title: OnStove
 permalink: /applications/
 ---
+
 <section class="bg-gray-light container-lg p-responsive py-4 py-md-6 my-lg-6 fade-in-center">
   <div class="text-center fade-in-center">
-    <h2 class="alt-h2 mb-4">FFRM Applications</h2>
+    <h2 class="alt-h2 mb-4">OnStove Applications</h2>
   </div>
 
   <div class="applications-content text-left">
-    <p class="lead mb-4">FFRM is a useful tool for assessing the stranded cost implications that may arise as a country decarbonizes its electricity sector. The model was originally developed by the World Bank to assess stranded cost under various defined scenarios, with its most recent application in exploring the stranded cost implications of decarbonizing India and the Philippines power sector. </p>
+    <p class="lead mb-4">
+      <em>‘OnStove’</em> is a fundamental building block for a wide range of applications across government, industry, and academia. 
+      Several examples include:
+    </p>
 
-    <!--
-     <div class="applications-grid">
+    <div class="applications-grid">
+
+      <!-- Governments -->
       <div class="application-category">
         <h3 class="category-title">Governments</h3>
-        <ul class="application-list">
-          <li><a href="https://energypedia.info/wiki/LTEM_-_Energy_Department_of_the_Cyprus_Institute">National Energy and Climate Plan in Cyprus</a></li>
-        </ul>  
+        <p>
+          OnStove has supported clean cooking transition plans in Nepal and Kenya as part of collaborations with the Clean Cooking Alliance, 
+          the World Resources Institute, the Kenyan Energy Ministry, and Nepal’s Alternative Energy Promotion Center (AEPC).
+        </p>
       </div>
 
+      <!-- Industry and Think Tanks -->
       <div class="application-category">
         <h3 class="category-title">Industry and Think Tanks</h3>
+        <p>
+          OnStove has been used by international organizations to inform clean cooking access strategies:
+        </p>
         <ul class="application-list">
-          <li><a href="https://www.globalccsinstitute.com/wp-content/uploads/2021/10/genzo1123.pdf">Global CCS Institute</a></li>
+          <li>
+            <a href="https://www.iea.org/reports/a-vision-for-clean-cooking-access-for-all" target="_blank">
+              OnStove informed clean cooking adoption scenarios in the IEA’s 2023 special report 
+              <em>“A Vision for Clean Cooking Access for All.”</em>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.wri.org/update/energy-access-explorer-open-software-enabling-access-clean-cooking-nepal" target="_blank">
+              OnStove results were integrated into Nepal’s Energy Access Explorer by the World Resources Institute (WRI), 
+              KTH Royal Institute of Technology, and AEPC. 
+              This effort helped to capture key geospatial parameters of unserved and underserved populations across the country 
+              and supported better planning of clean cooking transitions.
+            </a>
+          </li>
+          <li>
+            <a href="https://www.wri.org/update/leveraging-energy-access-explorer-advance-kenyas-clean-cooking-agenda" target="_blank">
+              OnStove results were integrated into Kenya’s Energy Access Explorer by WRI, KTH Royal Institute of Technology, 
+              and the Ministry of Energy. 
+              It supported scenario analysis to identify least-cost clean cooking options across counties and 
+              helped inform national investment priorities for clean cooking access.
+            </a>
+          </li>
         </ul>
       </div>
 
+      <!-- Academia -->
       <div class="application-category">
         <h3 class="category-title">Academia</h3>
         <ul class="application-list">
-          <li><a href="https://kth.diva-portal.org/smash/get/diva2:1576316/FULLTEXT01.pdf">Politecnico di Milano – 
+          <li>
+            <a href="https://doi.org/10.1038/s41893-022-01039-8" target="_blank">
+              Khavari, B., Ramirez, C., Jeuland, M. & Fuso Nerini, F. 
+              “A geospatial approach to understanding clean cooking challenges in sub-Saharan Africa.” 
+              <em>Nature Sustainability</em> (2023).
+            </a>
+          </li>
+          <li>
+            <a href="https://doi.org/10.1016/S2542-5196(24)00209-2" target="_blank">
+              Ramirez, C. et al. 
+              “Achieving Nepal’s clean cooking ambitions: an open source and geospatial cost–benefit analysis.” 
+              <em>The Lancet Planetary Health</em> 8, e754–e765 (2024).
+            </a>
+          </li>
+          <li>
+            <a href="http://dx.doi.org/10.13140/RG.2.2.19033.29289" target="_blank">
+              Khavari, B. et al. 
+              “Integrated geospatial modelling for the achievement of universal energy access in Kenya.” 
+              (2024).
+            </a>
+          </li>
         </ul>
       </div>
+
     </div>
   </div>
 </section>
-
- <section class="container-lg p-responsive py-4 py-md-6 my-lg-6">
-  <div class="text-center mb-5">
-    <h2 class="alt-h2">Specialist versions of the tool</h2>
-  </div>
-
-  <div class="slider-wrapper my-5">
-    <div class="arrow arrow-left" onclick="slideTextPrev()">‹</div>
-
-    <div class="slider-container">
-      <div class="slider" id="textSlider">
-        <div class="slide-card">
-          <h3>OSeMOSYS Global</h3>
-          <p><a href="https://osemosys-global.readthedocs.io/en/latest/" target="_blank">Open-source global electricity model</a></p>
-        </div>
-
-        <div class="slide-card">
-          <h3>GENESYS-MOD</h3>
-          <p><a href="https://git.tu-berlin.de/genesysmod/genesys-mod-public" target="_blank">Modular European decarbonisation model</a></p>
-        </div>
-
-        <div class="slide-card">
-          <h3>TEMBA</h3>
-          <p><a href="https://zenodo.org/records/3521841" target="_blank">The African electricity model base</a></p>
-        </div>
-
-        <div class="slide-card">
-          <h3>OSeMBE</h3>
-          <p><a href="https://github.com/HauHe/OSeMBE" target="_blank">Open Source energy Model – Base for Europe</a></p>
-        </div>
-
-        <div class="slide-card">
-          <h3>SAMBA</h3>
-          <p><a href="http://www.osemosys.org/samba.html" target="_blank">Southern African Model Base for Analysis</a></p>
-        </div>
-      </div>
-    </div>
-
-    <div class="arrow arrow-right" onclick="slideTextNext()">›</div>
-  </div>
-
-  <div class="slider-dots text-center mt-3" id="sliderDots"></div>
-</section>
--->
 
 <section class="container-lg p-responsive py-4 py-md-6 my-lg-6">
   <div class="recommended-reading">
