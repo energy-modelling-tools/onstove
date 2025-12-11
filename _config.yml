@@ -12,6 +12,7 @@ description: "GitHub helps government build software better, together"
 baseurl: "/onstove"
 permalink: "/stories/:title"
 relative_permalinks: false
+forum_slug: "onstove"
 
 # Remote Theme Configuration
 remote_theme: energy-modeling-tools/page-template@main

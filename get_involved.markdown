@@ -11,6 +11,8 @@ permalink: /contact/
       <h2 class="alt-h2 mb-4">Get Involved</h2>
     </div>
 
+    {% include forum_cta.html %}
+
     <!-- Section: Technical Contributions -->
     <div class="involvement-section">
       <h3 class="section-title text-center mb-4">🛠️ Contribute to Development</h3>
