@@ -10,7 +10,7 @@ permalink: /about/
     <h2 class="alt-h3 mb-4">About OnStove</h2>
     <div class="container-lg p-responsive py-4 py-md-6">
       <div class="col-md-12 animate-out mb-2">
-        <p class="alt-lead text-gray text-justify-between col-md-15 mx-auto" style="text-align: justify; font-size: 0.875em;">
+        <p class="alt-lead text-gray text-justify-between col-md-15 mx-auto">
           <strong>OnStove</strong> is an open-source spatial cost–benefit model developed to identify the most cost-effective and socially beneficial cooking solutions. 
           It evaluates multiple cooking technologies and fuels, incorporating health, environmental, and time-saving benefits alongside economic and technical costs. 
           The tool provides high-resolution spatial outputs that support decision-making for clean cooking transitions in low- and middle-income countries. 
@@ -20,7 +20,7 @@ permalink: /about/
 
       <h2 class="aboutpage-subtitle text-left mb-3 mt-lg-6" id="what-does-it-do">What does it aim to do?</h2>
       <div class="col-md-12 animate-out mb-2">
-        <p class="alt-lead text-gray text-justify-between col-md-15 mx-auto" style="text-align: justify; font-size: 0.875em;">
+        <p class="alt-lead text-gray text-justify-between col-md-15 mx-auto">
           OnStove quantifies and maps the relative costs and benefits of different cooking technologies—such as LPG, electricity, biogas, and improved biomass—across regions. 
           By accounting for spatially explicit data such as fuel availability, household distribution, and accessibility, the model identifies where interventions can generate 
           the greatest social and environmental returns. This allows planners and policymakers to prioritise clean cooking investments, design context-specific strategies, 
@@ -30,7 +30,7 @@ permalink: /about/
 
       <h2 class="aboutpage-subtitle text-left mb-3 mt-lg-6" id="who-uses-it">Who uses it?</h2>
       <div class="col-md-12 animate-out mb-2">
-        <p class="alt-lead text-gray text-justify-between col-md-15 mx-auto" style="text-align: justify; font-size: 0.875em;">
+        <p class="alt-lead text-gray text-justify-between col-md-15 mx-auto">
           The tool is used by governments, research institutions, and development organisations to design and evaluate clean cooking programmes. 
           It supports applications at national, regional, and global scales and provides open access to methodologies, data, and results to encourage collaboration and transparency in the clean cooking sector.
         </p>
@@ -38,7 +38,7 @@ permalink: /about/
 
       <h2 class="aboutpage-subtitle text-left mb-3 mt-lg-6" id="how-to-get-started">How can you get started?</h2>
       <div class="col-md-12 animate-out mb-2">
-        <p class="alt-lead text-gray text-justify-between col-md-15 mx-auto" style="text-align: justify; font-size: 0.875em;">
+        <p class="alt-lead text-gray text-justify-between col-md-15 mx-auto">
           The <strong>OnStove documentation</strong> is available on ReadTheDocs and provides a complete guide for installation, data preparation, and running analyses. 
           It also describes the model’s Python functions and workflows for creating national or regional cost–benefit maps for clean cooking solutions.
         </p>

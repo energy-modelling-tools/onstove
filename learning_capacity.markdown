@@ -15,14 +15,14 @@ permalink: /learning_capacity/
 
     <!-- E-Learning Section -->
     <div class="mt-3 animate-in">
-      <h3 class="alt-h3 mt-3" style="font-size: 1.25rem;">📘 Open University Course on Geospatial Clean Cooking Access Modelling using OnStove</h3>
-      <p class="animate-in" style="font-size: 0.95rem;">
+      <h3 class="alt-h3 mt-3">📘 Open University Course on Geospatial Clean Cooking Access Modelling using OnStove</h3>
+      <p class="animate-in">
         In this course, you will learn about geospatial clean cooking modelling and how to build your own clean cooking transition scenarios using spatial data. 
         You will be introduced to <strong>OnStove</strong>—an open-source spatial clean cooking tool that identifies the best cooking solutions across any given area based on their costs and benefits. 
         You will learn how to create your own spatial repository, modify spatial datasets, calculate the net benefits of different cooking solutions, and visualize and present your results.
       </p>
       <p class="animate-in">
-        <a href="https://www.open.edu/openlearncreate/course/view.php?id=11724" target="_blank" class="btn btn-outline-primary sky-blue-accent d-block d-sm-inline-block px-1 px-md-3" style="border-color: #3490dc; color: #3490dc;">
+        <a href="https://www.open.edu/openlearncreate/course/view.php?id=11724" target="_blank" class="btn btn-outline-primary sky-blue-accent d-block d-sm-inline-block px-1 px-md-3">
           Access the Course →
         </a>
       </p>
@@ -30,7 +30,7 @@ permalink: /learning_capacity/
 
     <!-- Interface / Kits (Future Features Placeholder) -->
     <div class="mt-5 animate-in">
-      <h3 class="alt-h3 mt-3" style="font-size: 1.25rem;">📦 Upcoming Resources</h3>
+      <h3 class="alt-h3 mt-3">📦 Upcoming Resources</h3>
       <ul class="animate-in">
         <li><strong>Starter Data Kits</strong> – Coming soon</li>
         <li><strong>Flatpack Program</strong> – Coming soon</li>
@@ -40,8 +40,8 @@ permalink: /learning_capacity/
 
     <!-- EMP Section -->
     <div class="mt-5 animate-in">
-      <h3 class="alt-h3 mt-3" style="font-size: 1.25rem;">🌍 Energy Modelling Platforms (EMPs)</h3>
-      <p class="animate-in" style="font-size: 0.95rem;">
+      <h3 class="alt-h3 mt-3">🌍 Energy Modelling Platforms (EMPs)</h3>
+      <p class="animate-in">
         OnStove has been part of the Energy Modelling Platform – Global (EMP-G) series since 2023, where it is taught as a spatial clean cooking modelling component. 
         Through EMPs, analysts and policymakers from around the world gain hands-on experience developing clean cooking transition scenarios and sharing results through Zenodo and conference presentations.
       </p>
@@ -49,7 +49,7 @@ permalink: /learning_capacity/
 
     <!-- EMP Events Section -->
     <div class="container-lg p-responsive py-4 py-md-6 my-lg-6 animate-in">
-      <h3 class="alt-h3 text-center mb-3 animate-in" style="font-size: 1.25rem;">🌍 Explore EMP Events</h3>
+      <h3 class="alt-h3 text-center mb-3 animate-in">🌍 Explore EMP Events</h3>
 
       <div class="clearfix gutter-spacious">
         {% for event in site.data.learning_events.events %}
@@ -74,7 +74,7 @@ permalink: /learning_capacity/
 
     <!-- Other Related Events -->
     <div class="container-lg p-responsive py-4 py-md-6 my-lg-6 animate-in">
-      <h3 class="alt-h3 text-center mb-3 animate-in" style="font-size: 1.25rem;">🔎 Other Related Events</h3>
+      <h3 class="alt-h3 text-center mb-3 animate-in">🔎 Other Related Events</h3>
 
       <div class="clearfix gutter-spacious">
         {% for other in site.data.learning_events.other_events %}
@@ -82,7 +82,7 @@ permalink: /learning_capacity/
           <h4 class="alt-h4 mb-2">{{ other.title }}</h4>
           <p class="text-gray">{{ other.description }}</p>
           <p class="animate-in">
-            <a href="{{ other.url }}" target="_blank" class="btn btn-outline-primary sky-blue-accent" style="border-color: #3490dc; color: #3490dc;">
+            <a href="{{ other.url }}" target="_blank" class="btn btn-outline-primary sky-blue-accent">
               Learn more →
             </a>
           </p>
