@@ -1,7 +1,7 @@
 # Partner institutions for homepage display
 partners:
   - name: kth
-    logo: /assets/img/partners/KTH.png
+    logo: /assets/img/partners/kth.svg
     display_name: KTH Royal Institute of Technology
     url: https://www.energy.kth.se/energy-systems/division-of-energy-systems-1.937036
 
@@ -11,7 +11,7 @@ partners:
     url: https://cleancooking.org/
 
   - name: seforall
-    logo: /assets/img/partners/SEforAll.png
+    logo: /assets/img/partners/seforall.svg
     display_name: Sustainable Energy for All (SEforALL)
     url: https://www.seforall.org/
 
@@ -26,7 +26,7 @@ partners:
     url: https://www.wri.org/
 
   - name: ccg
-    logo: /assets/img/partners/CCG.png
+    logo: /assets/img/partners/ccg.svg
     display_name: Climate Compatible Growth (CCG)
     url: https://climatecompatiblegrowth.com/
 
