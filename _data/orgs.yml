@@ -4,33 +4,40 @@ partners:
     logo: /assets/img/partners/kth.svg
     display_name: KTH Royal Institute of Technology
     url: https://www.energy.kth.se/energy-systems/division-of-energy-systems-1.937036
+    height: 80
 
   - name: cca
     logo: /assets/img/partners/CCA.png
     display_name: Clean Cooking Alliance (CCA)
     url: https://cleancooking.org/
+    height: 80
 
   - name: seforall
     logo: /assets/img/partners/seforall.svg
     display_name: Sustainable Energy for All (SEforALL)
     url: https://www.seforall.org/
+    height: 80
 
   - name: iea
     logo: /assets/img/partners/IEA.png
     display_name: International Energy Agency (IEA)
     url: https://www.iea.org/
+    height: 80
 
   - name: wri
     logo: /assets/img/partners/WRI.jpg
     display_name: World Resources Institute (WRI)
     url: https://www.wri.org/
+    height: 80
 
   - name: ccg
     logo: /assets/img/partners/ccg.svg
     display_name: Climate Compatible Growth (CCG)
     url: https://climatecompatiblegrowth.com/
+    height: 80
 
   - name: mecs
     logo: /assets/img/partners/MECS.png
     display_name: Modern Energy Cooking Services (MECS)
     url: https://mecs.org.uk/
+    height: 80
